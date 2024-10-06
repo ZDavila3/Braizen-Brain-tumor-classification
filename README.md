@@ -32,5 +32,6 @@ Another challenge we encountered was related to the chatbot feature, which provi
      height="50"/>
 
 ## Demo
+![image](https://github.com/user-attachments/assets/fb675aea-8c1b-4513-95d8-7cdb7272a267)
 
-Insert gif or link to demo
+
