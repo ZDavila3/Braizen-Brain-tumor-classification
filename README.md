@@ -45,7 +45,8 @@ In the future, our goal is to enhance the accuracy of our model by incorporating
 ![image](https://github.com/user-attachments/assets/fb675aea-8c1b-4513-95d8-7cdb7272a267)
 
 ## How to run
-
+`Downloading Data Set`
+Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 ## Contributors
 - [@Zanett](https://github.com/ZDavila3)
