@@ -42,6 +42,7 @@ In the future, our goal is to enhance the accuracy of our model by incorporating
      height="50"/>
 
 ## Demo
+Video Demo of Braizen Brain Tumor classification: https://www.youtube.com/watch?v=JSGOsNMHmwA
 ![image](https://github.com/user-attachments/assets/fb675aea-8c1b-4513-95d8-7cdb7272a267)
 
 ## How to run
