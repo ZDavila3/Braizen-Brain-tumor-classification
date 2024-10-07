@@ -1,5 +1,5 @@
 
-# OwlHacks 2024 - Braizen
+# OwlHacks 2024 - Braizen (24 Hr Hack)
 
 `Machine Learning (CNN - VGG16 / Streamlit)`
 
