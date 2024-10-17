@@ -75,12 +75,12 @@ To run, enter the following command in your terminal
 
 ## Not working correctlly? -> Modifications needed
 
-| File                      | Issue                 | Resolve                                                                     |
-| -----------------         | ----------------------|---------------------------------------------------------------------------- |
-| brain_tumor_classifier.py | Images not found?     | Edit line 12 -> Make sure this is YOUR path                                 |
-| brain_tumor_classifier.py | Not generating an h5? | Edit line 13 -> Make sure it is pointing to the h5 fil in your coding space |
-| mri_classifier.py         | Not reading the h5?   | Edit line 10 -> Make sure this is YOUR h5 Path                              |
-| mri_classifier.py         | No Chat Bot?          | Edit line 11 -> Create an API key on OpenAI.com and insert here             |
+| File                      | Issue                 | Resolve                                                                      |
+| -----------------         | ----------------------|------------------------------------------------------------------------------|
+| brain_tumor_classifier.py | Images not found?     | Edit line 12 -> Make sure this is YOUR path                                  |
+| brain_tumor_classifier.py | Not generating an h5? | Edit line 13 -> Make sure it is pointing to the h5 file in your coding space |
+| mri_classifier.py         | Not reading the h5?   | Edit line 10 -> Make sure this is YOUR h5 Path                               |
+| mri_classifier.py         | No Chat Bot?          | Edit line 11 -> Create an API key on OpenAI.com and insert here              |
 
 
 ## Contributors
