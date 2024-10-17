@@ -48,7 +48,7 @@ In the future, our goal is to enhance the accuracy of our model by incorporating
 
 ![image](https://github.com/user-attachments/assets/fb675aea-8c1b-4513-95d8-7cdb7272a267)
 
-## How to run
+## 5 Step Running Process
 
 `1. Download Data Set`
 
