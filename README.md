@@ -52,6 +52,8 @@ Video Demo of Braizen Brain Tumor classification: https://www.youtube.com/watch?
 Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 `2. Train your model using this data set`
+Link: brain_tumor_classifier.py
+**Please modify code lines 
 
 ## Contributors
 - [@Zanett](https://github.com/ZDavila3)
