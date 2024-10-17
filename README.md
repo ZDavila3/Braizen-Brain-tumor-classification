@@ -49,7 +49,6 @@ In the future, our goal is to enhance the accuracy of our model by incorporating
 ![image](https://github.com/user-attachments/assets/fb675aea-8c1b-4513-95d8-7cdb7272a267)
 
 ## How to run
-`Remember to have all the files/images in the same space to run locally`
 
 `1. Download Data Set`
 
@@ -72,6 +71,7 @@ To run, enter the following command in your terminal
 ```bash
   streamlit run mri_classssifier_app.py
 ```
+`5. Viola, You Did It ! Happy Coding.`
 
 ## Not working correctlly? -> Modifications needed
 
