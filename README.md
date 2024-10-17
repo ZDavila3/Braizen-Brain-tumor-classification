@@ -46,9 +46,10 @@ In the future, our goal is to enhance the accuracy of our model by incorporating
 
 ## Demo
 
-![ezgif com-resize](https://github.com/user-attachments/assets/a5eb95d5-9388-4235-a6b3-4cbd16c0699b)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a5eb95d5-9388-4235-a6b3-4cbd16c0699b" alt="ezgif com-resize" />
+</div>
 
-![image](https://github.com/user-attachments/assets/fb675aea-8c1b-4513-95d8-7cdb7272a267)
 
 ## 5 Step Running Process
 
