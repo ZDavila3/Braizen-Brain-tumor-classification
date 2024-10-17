@@ -56,7 +56,11 @@ Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-m
 
 Link:[ brain_tumor_classifier.py](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/blob/68ae1cf62ddd4e8efd75d9530a027ece5b05102d/brain_tumor_classifier.py)
 
-**Please modify code lines 12 & 13 in the brin_tumor_classifier.py file to your unique path **
+**Please modify code lines 12 & 13 in the brin_tumor_classifier.py file to your unique path/where you want the h5 file stored **
+
+`3. Time to connect with front end`
+
+Link:
 
 ## Contributors
 - [@Zanett](https://github.com/ZDavila3)
