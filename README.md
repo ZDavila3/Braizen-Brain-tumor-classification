@@ -59,7 +59,6 @@ Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-m
 
 Link: [ brain_tumor_classifier.py](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/blob/68ae1cf62ddd4e8efd75d9530a027ece5b05102d/brain_tumor_classifier.py)
 
-**Please modify code lines 12 & 13 in the brin_tumor_classifier.py file to your unique path/where you want the h5 file stored**
 
 `3. Time to connect with front end`
 
@@ -74,10 +73,15 @@ To run, enter the following command in your terminal
   streamlit run mri_classssifier_app.py
 ```
 
+## Not working correctlly? -> Modifications needed
 
-**Please modify line 10 to the h5 file you generated when training your model**
+| File                      | Issue                 | Resolve                                                                     |
+| -----------------         | ----------------------|---------------------------------------------------------------------------- |
+| brain_tumor_classifier.py | Images not found?     | Edit line 12 -> Make sure this is YOUR path                                 |
+| brain_tumor_classifier.py | Not generating an h5? | Edit line 13 -> Make sure it is pointing to the h5 fil in your coding space |
+| mri_classifier.py         | Not reading the h5?   | Edit line 10 -> Make sure this is YOUR h5 Path                              |
+| mri_classifier.py         | No Chat Bot?          | Edit line 11 -> Create an API key on OpenAI.com and insert here             |
 
-**Enter your chat gpt API key to have a functioning chat bot**
 
 ## Contributors
 - [@Zanett](https://github.com/ZDavila3)
