@@ -53,7 +53,7 @@ Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-m
 
 `2. Train your model using this data set`
 Link: brain_tumor_classifier.py
-**Please modify code lines 
+**Please modify code lines 12 & 13 in the brin_tumor_classifier.py file to your unique path **
 
 ## Contributors
 - [@Zanett](https://github.com/ZDavila3)
