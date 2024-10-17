@@ -61,7 +61,9 @@ Link: [ brain_tumor_classifier.py](https://github.com/ZDavila3/Braizen-Brain-tum
 `3. Time to connect with front end`
 
 Link: [ mri_classifier.py](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/blob/68ae1cf62ddd4e8efd75d9530a027ece5b05102d/mri_classifier.py)
+
 **Please modify line 10 to the h5 file you generated when training your model**
+
 **Enter your chat gpt API key to have a functioning chat bot**
 
 ## Contributors
