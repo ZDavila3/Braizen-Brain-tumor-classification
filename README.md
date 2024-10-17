@@ -1,5 +1,7 @@
 
-![image](https://github.com/user-attachments/assets/ac6d4682-4874-4894-b607-fb599c56e801)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ac6d4682-4874-4894-b607-fb599c56e801" alt="image" />
+</div>
 
 # OwlHacks 2024 - Braizen (24 Hr Hack)
 
