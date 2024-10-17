@@ -47,6 +47,7 @@ Video Demo of Braizen Brain Tumor classification: https://www.youtube.com/watch?
 
 ## How to run
 `Remember to have all the files/images in the same space to run locally`
+
 `1. Download Data Set`
 Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
