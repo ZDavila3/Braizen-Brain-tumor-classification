@@ -60,7 +60,7 @@ Link:[ brain_tumor_classifier.py](https://github.com/ZDavila3/Braizen-Brain-tumo
 
 `3. Time to connect with front end`
 
-Link:
+Link:[ mri_classifier.py](https://github.com/ZDavila3/Braizen-Brain-tumor-classification/blob/68ae1cf62ddd4e8efd75d9530a027ece5b05102d/mri_classifier.py)
 
 
 ## Contributors
