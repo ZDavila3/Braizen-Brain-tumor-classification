@@ -1,7 +1,7 @@
 
-# OwlHacks 2024 - Braizen (24 Hr Hack)
-
 ![image](https://github.com/user-attachments/assets/ac6d4682-4874-4894-b607-fb599c56e801)
+
+# OwlHacks 2024 - Braizen (24 Hr Hack)
 
 `Machine Learning (CNN - VGG16 / Streamlit)`
 
